@@ -316,9 +316,9 @@ public class ArbolBPlus {
         boolean ok = verificarNodo(raiz, true);
 
         if (ok) {
-            System.out.println("✅ Árbol B+ correctamente estructurado");
+            System.out.println("Árbol B+ correctamente estructurado");
         } else {
-            System.out.println("❌ Problemas detectados en la estructura");
+            System.out.println("Problemas detectados en la estructura");
         }
     }
 
